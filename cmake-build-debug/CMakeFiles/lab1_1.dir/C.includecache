@@ -6,19 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/CLionProjects/lab1-1/finder.c
+H:/NSUProgLabs/lab1-1/finder.h
+
+H:/NSUProgLabs/lab1-1/main.c
 stdio.h
 -
 string.h
 -
-
-E:/CLionProjects/lab1-1/finder.h
-
-E:/CLionProjects/lab1-1/main.c
-stdio.h
--
-string.h
+math.h
 -
 finder.h
-E:/CLionProjects/lab1-1/finder.h
+H:/NSUProgLabs/lab1-1/finder.h
 

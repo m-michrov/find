@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "E:/CLionProjects/lab1-1/finder.c" "E:/CLionProjects/lab1-1/cmake-build-debug/CMakeFiles/lab1_1.dir/finder.c.obj"
-  "E:/CLionProjects/lab1-1/main.c" "E:/CLionProjects/lab1-1/cmake-build-debug/CMakeFiles/lab1_1.dir/main.c.obj"
+  "H:/NSUProgLabs/lab1-1/finder.c" "H:/NSUProgLabs/lab1-1/cmake-build-debug/CMakeFiles/lab1_1.dir/finder.c.obj"
+  "H:/NSUProgLabs/lab1-1/main.c" "H:/NSUProgLabs/lab1-1/cmake-build-debug/CMakeFiles/lab1_1.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
