@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-H:/NSUProgLabs/lab1-1/finder.h
-
-H:/NSUProgLabs/lab1-1/main.c
+H:/NSUProgLabs/lab1-1/finder.c
 stdio.h
 -
 string.h
 -
-math.h
--
-finder.h
-H:/NSUProgLabs/lab1-1/finder.h
 
